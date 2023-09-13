@@ -6,10 +6,6 @@
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
 <p align="center">
-  <a href="https://github.com/astrogeeksagar"><img src="https://github-readme-stats.vercel.app/api?username=astrogeeksagar&hide_border=true&show_icons=true" alt="astrogeeksagar's github stats"></a>
-</p>
-
-<p align="center">
   <strong><a href="https://astrogeeksagar.com/">Official Website</a></strong> |
   <strong><a href="https://twitter.com/astrogeeksagar">Twitter</a></strong> |
   <strong><a href="https://www.instagram.com/astrogeeksagar/">Instagram</a></strong> |
