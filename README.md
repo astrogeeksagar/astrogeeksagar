@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://astrogeeksagar.com/">Sagar Rajput</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
   <strong><a href="https://astrogeeksagar.com/">Official Website</a></strong> |
