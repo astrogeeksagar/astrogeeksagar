@@ -17,7 +17,7 @@
   <strong><a href="https://www.twitch.tv/astrogeeksagar">Twitch</a></strong>
 </p>
 
-<p align="center">❤ I'm currently working on Software Development, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">❤ I'm currently working on Software Development, Websites / Backend, Database Dev.</p>
 
 <!--
 **astrogeeksagar/astrogeeksagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
