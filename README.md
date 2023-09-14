@@ -15,7 +15,7 @@
 
 <p align="center">❤ I'm currently working on Software Development, Websites / Backend, Database Dev.</p>
 
-| <a href="https://github.com/astrogeeksagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=astrogeeksagar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="astrogeeksagar's github stats" /></a> | <a href="https://github.com/astrogeeksagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeeksagar&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/astrogeeksagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=astrogeeksagar&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="astrogeeksagar's github stats" /></a> | <a href="https://github.com/astrogeeksagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeeksagar&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
