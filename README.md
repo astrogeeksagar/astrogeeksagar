@@ -1,45 +1,167 @@
+<div align="center">
+  <img src="kita-ikuyo-rap.webp" alt="Banner" width="100%" style="border-radius: 10px">
+  
+  <!-- Animated Wave -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Sagar+Rajput;Full-Stack+Developer+%2B+AI+Enthusiast;10%2B+Years+of+Coding+Experience" alt="Typing SVG" />
+  </h1>
+</div>
+
+<div align="center">
+  
+  [![Spotify](https://novatorem-git-master-astrogeeksagar.vercel.app/api/spotify)](https://open.spotify.com/user/astrogeeksagar)
+
+</div>
+
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🚀 Senior Full Stack Developer | AI Expert | Web3 Enthusiast 🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</h3>
+
 <p align="center">
-  <a href="https://www.astrogeeksagar.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://astrogeeksagar.com/">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:sagarrajpoot7860@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/astrogeeksagar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/astrogeeksagar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="tel:+918574921683">
+    <img src="https://img.shields.io/badge/Phone-green?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  </a>
+  <a href="https://github.com/astrogeeksagar">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://astrogeeksagar.com/">Sagar Rajput</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile</h1>
+<!-- Animated Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
-<p align="center">
-  <strong><a href="https://astrogeeksagar.com/">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/astrogeeksagar">Twitter</a></strong> |
-  <strong><a href="https://www.instagram.com/astrogeek_sagar/">Instagram</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/astrogeeksagar">LinkedIn</a></strong> |
-  <strong><a href="https://www.facebook.com/astrogeeksagarcoder/">Facebook</a></strong>
-</p>
+## 💫 About Me
 
-<p align="center">❤ I'm currently working on Software Development, Websites / Backend, Database Dev.</p>
+```javascript
+const sagar = {
+    pronouns: "He" | "Him",
+    location: "India",
+    contact: {
+        email: "sagarrajpoot7860@gmail.com",
+        phone: "+91-8574921683"
+    },
+    currentFocus: "Building AI-Powered Web Applications",
+    funFact: "I can code for 24 hours straight with just coffee ☕",
+    portfolio: "https://astrogeeksagar.com",
+    techCommunities: {
+        speaker: "Tech Conferences",
+        mentor: "Coding Bootcamps",
+        helper: "Stack Overflow"
+    }
+};
+```
 
-| <a href="https://github.com/astrogeeksagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=astrogeeksagar&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="astrogeeksagar's github stats" /></a> | <a href="https://github.com/astrogeeksagar/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrogeeksagar&layout=compact&theme=dracula&hide_border=true" /></a> |
-| ------------- | ------------- |
+## 🎯 Expertise
 
-<!--
-**astrogeeksagar/astrogeeksagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,php,typescript,react,next,vue,angular,nodejs,express,django,flask,laravel,mongodb,mysql,postgresql,redis,aws,gcp,azure,docker,kubernetes,tensorflow,git,github,gitlab,linux,nginx,webpack,vite" alt="skills" />
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 🔨 Languages and Tools:
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://image.url.for.tensorflow.icon" alt="tensorflow" height="42px"/> </a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://image.url.for.python.icon"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://image.url.for.firebase.icon" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://image.url.for.javascript.icon"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" height ="42px" src="https://image.url.for.typescript.icon"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://image.url.for.react.icon"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://image.url.for.nodejs.icon"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://image.url.for.git.icon" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://image.url.for.figma.icon" alt="figma" height='42px'/> </a>
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeeksagar&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeeksagar&repo=project2&theme=radical" />
+  </a>
+</div>
 
+## 💻 Tech Stack
+
+<details>
+<summary>Click to expand!</summary>
+
+### Languages
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</details>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeeksagar&theme=radical" alt="streak" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeeksagar&theme=radical" alt="profile details" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astrogeeksagar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="activity graph" />
+</div>
+
+## 🏆 Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=astrogeeksagar&theme=radical&row=1&column=6" alt="trophies" />
+</div>
+
+## 📈 Contribution Graph
+<img src="https://activity-graph.herokuapp.com/graph?username=astrogeeksagar&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
+
+## 🎵 What I'm Listening To
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=astrogeeksagar&cover_image=true&theme=default" alt="spotify" />
+</div>
+
+## 📊 Weekly Development Breakdown
+
+```text
+Python      █████████░░░░░░░░░   45.50 % 
+JavaScript  ████████░░░░░░░░░░   40.20 % 
+PHP         ██████░░░░░░░░░░░░   30.30 % 
+HTML/CSS    ████░░░░░░░░░░░░░░   20.10 % 
+Other       ███░░░░░░░░░░░░░░░   15.90 % 
+```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=astrogeeksagar&style=for-the-badge&color=blueviolet" alt="profile views" />
+  
+  <h4>💖 If you like my projects, Give them ⭐ and Share them!</h4>
+</div>
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
