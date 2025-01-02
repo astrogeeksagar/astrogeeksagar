@@ -8,9 +8,9 @@
 <p align="center">
   <strong><a href="https://astrogeeksagar.com/">Official Website</a></strong> |
   <strong><a href="https://twitter.com/astrogeeksagar">Twitter</a></strong> |
-  <strong><a href="https://www.instagram.com/astrogeeksagar/">Instagram</a></strong> |
+  <strong><a href="https://www.instagram.com/astrogeek_sagar/">Instagram</a></strong> |
   <strong><a href="https://www.linkedin.com/in/astrogeeksagar">LinkedIn</a></strong> |
-  <strong><a href="https://www.facebook.com/astrogeeksagar/">Facebook</a></strong>
+  <strong><a href="https://www.facebook.com/astrogeeksagarcoder/">Facebook</a></strong>
 </p>
 
 <p align="center">❤ I'm currently working on Software Development, Websites / Backend, Database Dev.</p>
