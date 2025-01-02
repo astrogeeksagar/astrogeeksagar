@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="kita-ikuyo-rap.webp" alt="Banner" width="100%" style="border-radius: 10px">
+  <img src="kita-ikuyo-rap.webp" alt="Banner" width="50%" style="border-radius: 10px">
   
   <!-- Animated Wave -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Sagar+Rajput;Full-Stack+Developer+%2B+AI+Enthusiast;10%2B+Years+of+Coding+Experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Sagar+Rajput;Software+Developer+%2B+AI;5%2B+Years+of+Coding+Experience" alt="Typing SVG" />
   </h1>
 </div>
 
@@ -14,7 +14,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🚀 Senior Full Stack Developer | AI Expert | Web3 Enthusiast 🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🚀 Software Developer | AI | Web3 Enthusiast 🚀 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
 <p align="center">
@@ -50,6 +50,7 @@ const sagar = {
     pronouns: "He" | "Him",
     location: "India",
     contact: {
+        username: "astrogeeksagar",
         email: "sagarrajpoot7860@gmail.com",
         phone: "+91-8574921683"
     },
@@ -57,8 +58,6 @@ const sagar = {
     funFact: "I can code for 24 hours straight with just coffee ☕",
     portfolio: "https://astrogeeksagar.com",
     techCommunities: {
-        speaker: "Tech Conferences",
-        mentor: "Coding Bootcamps",
         helper: "Stack Overflow"
     }
 };
@@ -73,7 +72,7 @@ const sagar = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
+  <a href="https://github.com/astrogeeksagar/analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=astrogeeksagar&repo=project1&theme=radical" />
   </a>
   <a href="https://github.com/yourusername/project2">
@@ -82,9 +81,6 @@ const sagar = {
 </div>
 
 ## 💻 Tech Stack
-
-<details>
-<summary>Click to expand!</summary>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -109,7 +105,6 @@ const sagar = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-</details>
 
 ## 📊 GitHub Statistics
 
@@ -133,6 +128,7 @@ const sagar = {
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=astrogeeksagar&cover_image=true&theme=default" alt="spotify" />
+  [[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pis7iau8eazaoy8sol1pjphuf&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=pis7iau8eazaoy8sol1pjphuf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)]]
 </div>
 
 ## 📊 Weekly Development Breakdown
