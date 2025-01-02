@@ -30,8 +30,8 @@
   <a href="https://twitter.com/astrogeeksagar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="tel:+918574921683">
-    <img src="https://img.shields.io/badge/Phone-green?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  <a href="https://www.instagram.com/astrogeek_sagar/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://github.com/astrogeeksagar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
