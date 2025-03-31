@@ -110,6 +110,7 @@ const sagar = {
 
 <div align="center">
   
+  <!-- Manually Updated Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=astrogeeksagar&theme=radical" alt="GitHub Streak Stats" />
 
   <!-- Profile Details -->
@@ -119,6 +120,7 @@ const sagar = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=astrogeeksagar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
+
 
 
 ## 🏆 Achievements
