@@ -109,12 +109,18 @@ const sagar = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeeksagar&theme=radical" alt="streak" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeeksagar&theme=radical" alt="profile details" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astrogeeksagar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="activity graph" />
+  <!-- Manually Updated Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=astrogeeksagar&theme=radical" alt="GitHub Streak Stats" />
+
+  <!-- Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeeksagar&theme=radical" alt="Profile Details" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astrogeeksagar&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
+
 </div>
+
 
 ## 🏆 Achievements
 <div align="center">
