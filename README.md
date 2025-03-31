@@ -111,7 +111,7 @@ const sagar = {
 <div align="center">
   
   <!-- Manually Updated Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeeksagar&theme=radical&cache=1" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeeksagar&theme=radical&cache=0" alt="GitHub Streak Stats" />
 
   <!-- Profile Details -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=astrogeeksagar&theme=radical" alt="Profile Details" />
