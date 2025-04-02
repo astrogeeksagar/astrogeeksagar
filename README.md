@@ -110,7 +110,7 @@ const sagar = {
 
 <div align="center">
   
-  <!-- Manually Updated Streak Stats -->https://streak-stats.demolab.com/?user=astrogeeksagar&theme=radical
+  <!-- Manually Updated Streak Stats -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrogeeksagar&theme=radical&cache=0" alt="GitHub Streak Stats" /> -->
 <img src="https://streak-stats.demolab.com/?user=astrogeeksagar&theme=radical" alt="GitHub Streak Stats" />
   <!-- Profile Details -->
